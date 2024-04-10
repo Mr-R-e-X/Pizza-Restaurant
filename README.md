@@ -29,7 +29,12 @@ Welcome to **Pizza Restaurant**! This project is a stylish and modern front-end 
 3. Explore the various sections of the webpage, interact with interactive elements, and enjoy the animations.
 
 ---
+---
 
+## Demo
+Check out the live demo [https://main.d4xiwatoh8fm1.amplifyapp.com/](#) to experience the **Pizza Restaurant** webpage in action!
+
+---
 ---
 
 <footer>
