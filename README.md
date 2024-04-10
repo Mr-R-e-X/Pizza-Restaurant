@@ -38,5 +38,5 @@ Check out the live demo [https://main.d4xiwatoh8fm1.amplifyapp.com/](#) to exper
 ---
 
 <footer>
-  <p>Made By ❤️ by Souvik</p>
+  <p>Made ❤️ by Souvik</p>
 </footer># Pizza-Restaurant
